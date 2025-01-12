@@ -31,8 +31,8 @@ const projects = [
   },
   {
     id: 3,
-    title: "BingeMe",
-    desc: "Monetize your creavtivity and passion",
+    title: "CookMom",
+    desc: "Recipe finder for quick and easy meal ideas",
     link: "https://recipe-finder-navy-nine.vercel.app/",
     gitLink: "https://github.com/TanCie/recipe-finder",
     image: cookmom,
