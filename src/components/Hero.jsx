@@ -1,5 +1,5 @@
 import micon from "../img/micon.gif";
-import Resume from "../assets/Resume.pdf";
+import Resume from "../assets/TanushreeCV.pdf";
 import Button from "./Button";
 
 export const Hero = () => {
